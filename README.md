@@ -13,6 +13,10 @@ This website serves as an online platform for our Eye Care Clinic, providing ess
 - **Database Integration**: Utilizes PHP and a MySQL database to manage user appointments and clinic information efficiently.
 - **Contact Information**: Clear details on how to reach the clinic, including phone numbers, email, and a contact form for inquiries.
 
+## Website Link
+
+Visit our Eye Care Clinic website at: [http://yourwebsiteurl.com](http://yourwebsiteurl.com)
+
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
